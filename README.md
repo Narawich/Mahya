@@ -1,5 +1,5 @@
 # Mahya
-* <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>| <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a> |<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a> 
+* <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a> | <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a> | <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a> 
 
 ## Interface
 <img src="interface/1.png" alt="" width="500"/>
